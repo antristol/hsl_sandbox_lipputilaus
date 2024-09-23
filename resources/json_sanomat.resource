@@ -39,4 +39,3 @@ Palauta Confirm Json
     ${base_confirm_json}    Convert String To Json    ${BASE_TICKET_CONFIRM_JSON}
     Set To Dictionary    ${base_confirm_json}    ticketId=${ticketId}    deviceId=${deviceId}
     RETURN    ${base_confirm_json}
-

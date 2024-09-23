@@ -1,7 +1,7 @@
 *** Settings ***
 Documentation    Testataan lapsen kertalipun ostoa käytössä olevilla vyöhykkeillä.
 Resource    ../datadriven.resource
-Resource    ../../../resources/settings.resource
+Resource    ../../../resources/resources.resource
 Test Template    Datadriven Test Template
 
 

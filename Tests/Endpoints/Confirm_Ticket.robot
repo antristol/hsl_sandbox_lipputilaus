@@ -1,6 +1,6 @@
 *** Settings ***
 Documentation    Negatiivisiä testejä ./Confirm endpointille
-Resource    ../../resources/settings.resource
+Resource    ../../resources/resources.resource
 Test Setup    Tilaa Lippu
 
 *** Test Cases ***

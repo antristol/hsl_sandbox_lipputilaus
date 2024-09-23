@@ -1,7 +1,7 @@
 *** Settings ***
 Documentation    Lippujen ostamisen e2e-workflowt
 
-Resource    ../../resources/settings.resource
+Resource    ../../resources/resources.resource
 
 
 

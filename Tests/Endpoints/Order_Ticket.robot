@@ -1,6 +1,6 @@
 *** Settings ***
 Documentation    Negatiivisiä testejä ./order endpointille
-Resource    ../../resources/settings.resource
+Resource    ../../resources/resources.resource
 
 
 *** Test Cases ***

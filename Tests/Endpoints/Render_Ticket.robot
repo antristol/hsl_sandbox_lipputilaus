@@ -1,6 +1,6 @@
 *** Settings ***
 Documentation    Negatiivisiä testejä ./render endpointille
-Resource    ../../resources/settings.resource
+Resource    ../../resources/resources.resource
 Test Setup    Tilaa Ja Vahvista Lippu
 
 *** Test Cases ***

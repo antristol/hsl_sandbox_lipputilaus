@@ -34,8 +34,6 @@ Kirjoita Lokitiedosto
     ${test}    Korvaa Kielletyt Merkit    ${TEST_NAME}
     ${nimi}    Korvaa Kielletyt Merkit    ${nimi}
 
-    Log Many    ${suite}    ${test}    ${nimi}
-
     Create File    ${LOGS_DIR}/${suite}/${test}/${timestamp}_${nimi}.${tiedostomuoto}    ${sisalto}
 
 Lokita HTTP Request Ja Response
