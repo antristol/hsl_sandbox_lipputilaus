@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation    ...
+Documentation    Projektin yleinen resurssitiedosto
 
 Library    RequestsLibrary
 Library    OperatingSystem

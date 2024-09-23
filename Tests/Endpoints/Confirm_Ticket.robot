@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation    Negatiivisiä testejä ./order endpointille
+Documentation    Negatiivisiä testejä ./Confirm endpointille
 Resource    ../../resources/settings.resource
 Test Setup    Tilaa Lippu
 
